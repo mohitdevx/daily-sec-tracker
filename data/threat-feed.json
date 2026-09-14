@@ -1,0 +1,32 @@
+{
+  "last_sync": "2026-09-14 12:43:54 UTC",
+  "records_count": 5,
+  "status": "active",
+  "advisories": [
+    {
+      "id": "CVE-1999-0095",
+      "severity": "N/A",
+      "summary": "The debug command in Sendmail is enabled, allowing attackers to execute commands as root."
+    },
+    {
+      "id": "CVE-1999-0082",
+      "severity": "N/A",
+      "summary": "CWD ~root command in ftpd allows root access."
+    },
+    {
+      "id": "CVE-1999-1471",
+      "severity": "N/A",
+      "summary": "Buffer overflow in passwd in BSD based operating systems 4.3 and earlier allows local users to gain root privileges by specifying a long shell or GECOS field."
+    },
+    {
+      "id": "CVE-1999-1122",
+      "severity": "N/A",
+      "summary": "Vulnerability in restore in SunOS 4.0.3 and earlier allows local users to gain privileges."
+    },
+    {
+      "id": "CVE-1999-1467",
+      "severity": "N/A",
+      "summary": "Vulnerability in rcp on SunOS 4.0.x allows remote attackers from trusted hosts to execute arbitrary commands as root, possibly related to the configuration of the nobody user."
+    }
+  ]
+}
