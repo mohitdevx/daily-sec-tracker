@@ -1,6 +1,6 @@
 # 🛡️ Automated Security Intelligence Feed
 
-**Last Sync:** `2026-11-10 00:47:53 UTC`  
+**Last Sync:** `2026-11-10 00:47:57 UTC`  
 **Engine:** `ThreatIntel-Sync v2.1`  
 
 ### Recent Security Advisories
